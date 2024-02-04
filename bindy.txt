@@ -1,0 +1,54 @@
+
+ptalec giganta to środkowy palec boskiej ręki
+
+kordy narzedzi rzezbiarza 438 19 410
+
+kordy kamienia krolow 807 31 313
+
+kordy kociolka dla blair -322 65 -155
+
+kordy anubisa 731 29 663
+
+kordy artemis -326 68 -129
+
+kordy antycznego kowala 492 72 554 to tam kupisz monety wikingow 
+
+kordy skazonego kowala to 221 65 198 - to tam zrobisz sztabe nowicjusza
+
+kordy asty 558 21 570 mozna wejsc przez kanaly lub parkourem zewnetrznie, szukaj dziury po lewej stronie sciany
+
+podczas smierci na wyspie nie traci sie przedmiotow, tylko podczas smierci na ow tracisz 50% punktow postaci
+ 
+Na 99% pytan masz odpowiedz na kanale #niezbedne-informacje na discordzie serwera. Link do discorda pod /pomoc
+
+wpisz /bestiary aby sprawdzic liste mobow wraz z ich dropem oraz drop i timery z bossow
+
+polecam uzywac dynmapy na stronie serwera jbwm.pl, znajduja sie na niej lokalizacje wszystkich NPC ze spawna oraz map 1-4_1
+
+drewniane narzedzia mozesz scraftowac w craftingu na swojej wyspie natomiast wyzsze poziomy narzedzi u grubiorza/drwala/rolnika na spawn
+
+! - przed wiadomoscia, aby pisac na chacie globalnym; $ - przed wiadomoscia, aby pisac na chacie handlowym
+
+wegiel i inne surowce mozesz wykopac na Swojej wyspie ulepszajac generator cobblestone pod /is upgrades
+
+leje mozesz stworzyc u inzyniera na spawn w zamian za 5 blokow zelaza
+
+w sprawie itemkow st.1 udaj sie do Bena na /spawn, powie Ci jak je stworzyc (9 x 16 zwyklego przedmiotu w craftingu; analogicznie robi sie st.2)
+
+generator bazaltu mozesz stworzyc za pomoca bloku gleby dusz otrzymanej ze skrzynki eventu stone, przykladowy jest dostepny na /warp tutorial
+
+enchant autosadzenie u stworcy I od 1k (sadzi z drugiej lapki) rolnika II od 4k rolnika (sadzi automatycznie)
+
+sakiewki z ow ulepszysz na danym ow; sakiewki rolnicze na ow2; a gornicze ow3
+
+aby pobrac txt wpisz: /txt; lub pobierz go z serwerowego discord /pomoc (opcja tylko dla osob z polaczonym kontem)
+
+masz 2 opcje 1. bez wymagan lvl u wyzyskiwacza za 200k, 2 bez inwestycji musisz go odebrac od elfiej alchemiczki po osiagnieciu 50 poziomu klasy
+
+pierwszego dirta masz w misji dla rolnika a tak to /sklep musisz miec 1k punktow wyspy (ktore zdobedziesz wrzucajac przedmioty do /is value) lub zakup na targu od graczy
+
+aby przelac komus pieniadze shift + PPM na gracza, nastepnie w samorodek zlota i wpisz kwote na tabliczce (uwaga wymagana wersja klienta 1.19.2)
+
+stellium to energia umozliwiajaca szybka teleportacje, mozesz zdobyc zakupujac range, /bestiary, oraz za kazdy poziom klasy dostajesz 0,2 stellium
+
+zmiana klasy? udaj sie do Diany, nastepnie do nauczycieli; 75 lvl mozesz bez limitu, do 150 raz dziennie a potem zapunkt zmiany klasy dostepny u Diany
