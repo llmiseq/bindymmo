@@ -34,7 +34,7 @@ masz 2 opcje 1. bez wymagan lvl u wyzyskiwacza za 200k, 2 bez inwestycji musisz 
 
 pierwszego dirta masz w misji dla rolnika a tak to /sklep musisz miec 1k punktow wyspy (ktore zdobedziesz wrzucajac przedmioty do /is value) lub zakup na targu od graczy
 
-aby przelac komus pieniadze shift + PPM na gracza, nastepnie w samorodek zlota i wpisz kwote na tabliczce (uwaga wymagana wersja klienta 1.19.2)
+aby przelac komus pieniadze shift + PPM na gracza, nastepnie w samorodek zlota i wpisz kwote na tabliczce
 
 stellium to energia umozliwiajaca szybka teleportacje, mozesz zdobyc zakupujac range, /bestiary, oraz za kazdy poziom klasy dostajesz 0,2 stellium
 
