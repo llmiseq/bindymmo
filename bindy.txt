@@ -1,6 +1,20 @@
+palec giganta to środkowy palec boskiej ręki
+
+kordy narzedzi rzezbiarza 438 19 410
+
+kordy kamienia krolow 807 31 813
+
 kordy kociolka dla blair -322 65 -155
 
+kordy anubisa 731 29 663
+
+kordy memfis 522 75 603
+
+kordy artemis -326 68 -129
+
 kordy antycznego kowala 492 72 554 to tam kupisz monety wikingow 
+
+kordy skazonego kowala to 221 65 198 - to tam zrobisz sztabe nowicjusza
 
 kordy asty 558 21 570 mozna wejsc przez kanaly lub parkourem zewnetrznie, szukaj dziury po lewej stronie sciany
 
@@ -12,7 +26,7 @@ wpisz /bestiary aby sprawdzic liste mobow wraz z ich dropem oraz drop i timery z
 
 polecam uzywac dynmapy na stronie serwera jbwm.pl, znajduja sie na niej lokalizacje wszystkich NPC ze spawna oraz map 1-4_1
 
-drewniane narzedzia mozesz scraftowac w craftingu na swojej wyspie natomiast wyzsze poziomy narzedzi u grubiorza/darka/rolnika na spawn
+drewniane narzedzia mozesz scraftowac w craftingu na swojej wyspie (wyjatek to siekiera - ja robisz u darka na /spawn) natomiast wyzsze poziomy narzedzi u grubiorza/darka/rolnika na spawn
 
 ! - przed wiadomoscia, aby pisac na chacie globalnym; $ - przed wiadomoscia, aby pisac na chacie handlowym
 
