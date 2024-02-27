@@ -24,7 +24,7 @@ Na 99% pytan masz odpowiedz na kanale #niezbedne-informacje na discordzie serwer
 
 wpisz /bestiary aby sprawdzic liste mobow wraz z ich dropem oraz drop i timery z bossow
 
-polecam uzywac dynmapy na stronie serwera jbwm.pl, znajduja sie na niej lokalizacje wszystkich NPC ze spawna oraz map 1-4_1
+polecam uzywac dynmapy na stronie serwera jbwm.pl, znajduja sie na niej lokalizacje wiekszosci NPC ze spawna oraz map 1-4_1
 
 drewniane narzedzia mozesz scraftowac w craftingu na swojej wyspie (wyjatek to siekiera - ja robisz u darka na /spawn) natomiast wyzsze poziomy narzedzi u grubiorza/darka/rolnika na spawn
 
