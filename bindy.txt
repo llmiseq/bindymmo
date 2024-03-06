@@ -66,11 +66,11 @@ Aby dostac sie na wieze demonow udaj się do karczmy, nastepnie prawe schody od 
 
 Aby przejsc zagadke w kopalni udaj sie w prawo, nastepnie lewo, prosto, w prawo
 
-Aby zaczac gre musisz PONOWNIE przejsc przez tutorial i misje na /spawn!
+Aby zaczac gre musisz PONOWNIE przejsc przez tutorial i misje na /spawn! (zalecana wersja to 1.19.2)
 
 Wykwitna truskawka po zjedzeniu aktywuje dungeon kraina rozkoszy, ktory doda Twojej postaci punkty reputacji. Cene truskawki skaluje sie wraz z wrostem poziomu Twojej postaci
 
-Aby ponownie rozpoczac tutorial udaj sie do npc Ben na /spawn
+Aby ponownie rozpoczac tutorial udaj sie do npc Ben na /spawn (zalecamy wersje 1.19.2)
 
 Kompas GPS pomoze Ci w misjach na spawnie - kliknij na przedmiot PPM
 
