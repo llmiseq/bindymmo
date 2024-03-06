@@ -56,7 +56,7 @@ zmiana klasy? udaj sie do Diany, nastepnie do nauczycieli; 75 lvl mozesz bez lim
 
 w sprawie itemkow st.1 udaj sie do Bena na spawn (uwaga ma on kilka ciekawych opcji dialogowych, ktore wspomoga Twoja rozgrywke)
 
-====
+===== Nowe bindy =====
 
 UWAGA ==> bardzo wazne jest, aby zapoznac sie z dzisiejszym changelogiem  - rozwiaze to wiele Twoich problemow (link do discorda pod /pomoc)
 
@@ -74,6 +74,6 @@ Aby ponownie rozpoczac tutorial udaj sie do npc Ben na /spawn (zalecamy wersje 1
 
 Kompas GPS pomoze Ci w misjach na spawnie - kliknij na przedmiot PPM
 
-Grzybowe emblematy sa nadal dostepne w misjach dziennych o wyzszym poziomie trudnosci
+Grzybowe emblematy mozna otrzymac na misjach dziennych o wyzszym poziomie trudnosci
 
-Kosci udowe nadal maja swoja wartosc na wyzszych poziomach trudnosci misji dziennych 
+Kosci udowe nadal maja swoja wartosc jako przedmioty do zadan na wyzszych poziomach trudnosci misji dziennych 
