@@ -52,10 +52,28 @@ aby sie z kims wymienic kliknij SHIFT + PPM na kolege, z ktorym chcesz sie wymie
 
 stellium to energia umozliwiajaca szybka teleportacje, mozesz zdobyc zakupujac range, /bestiary, oraz za kazdy poziom klasy dostajesz 0,2 stellium
 
-zmiana klasy? udaj sie do Diany, nastepnie do nauczycieli; 75 lvl mozesz bez limitu, do 150 raz dziennie a potem za punkt zmiany klasy dostepny u Diany
-
-Nie wiesz gdzie jest DT, idz do karczmy nastepnie wejdz po schodach na przeciwko barmana, potem skrec przed bibliotekarzem w lewo nastepnie wejdz po schodach dna koncu korytarza. Gratulacja noc przed toba teleportyje cie na dt. Nastepdnie szukaj pod ziemia noc odrzutufka i na skarpie obok noc bedzie wejscie. 
-
-Stworz party i rozpocznij dungeon nastepnie znedz truskawke aby rozpocac kraine rozkoszy i zdobyc reputacje.
+zmiana klasy? udaj sie do Diany, nastepnie do nauczycieli; 75 lvl mozesz bez limitu, do 150 raz dziennie a potem za punkt zmiany klasy dostepny w /itemshop
 
 w sprawie itemkow st.1 udaj sie do Bena na spawn (uwaga ma on kilka ciekawych opcji dialogowych, ktore wspomoga Twoja rozgrywke)
+
+====
+
+UWAGA ==> bardzo wazne jest, aby zapoznac sie z dzisiejszym changelogiem  - rozwiaze to wiele Twoich problemow (link do discorda pod /pomoc)
+
+Swoje dzienne/tygodniowe/miesięczne misje mozesz znalezc na tablicy misji na spawnie lub ow1
+
+Aby dostac sie na wieze demonow udaj się do karczmy, nastepnie prawe schody od wejscia, prosto, lewo, po schodach do gory - kliknij w npc Rakshasi - gratulacje dotarles na dt (npc Odrzutufka jest mniej wiecej w polowie dojscia na wyspe [wejscie po prawej])
+
+Aby przejsc zagadke w kopalni udaj sie w prawo, nastepnie lewo, prosto, w prawo
+
+Aby zaczac gre musisz PONOWNIE przejsc przez tutorial i misje na /spawn!
+
+Wykwitna truskawka po zjedzeniu aktywuje dungeon kraina rozkoszy, ktory doda Twojej postaci punkty reputacji. Cene truskawki skaluje sie wraz z wrostem poziomu Twojej postaci
+
+Aby ponownie rozpoczac tutorial udaj sie do npc Ben na /spawn
+
+Kompas GPS pomoze Ci w misjach na spawnie - kliknij na przedmiot PPM
+
+Grzybowe emblematy sa nadal dostepne w misjach dziennych o wyzszym poziomie trudnosci
+
+Kosci udowe nadal maja swoja wartosc na wyzszych poziomach trudnosci misji dziennych 
