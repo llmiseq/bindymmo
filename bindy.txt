@@ -74,6 +74,6 @@ Aby ponownie rozpoczac tutorial udaj sie do npc Ben na /spawn (zalecamy wersje 1
 
 Kompas GPS pomoze Ci w misjach na spawnie - kliknij na przedmiot PPM
 
-Grzybowe emblematy mozna otrzymac na misjach dziennych o wyzszym poziomie trudnosci
+Grzybowe emblematy mozna otrzymac na misjach dziennych o wyzszym poziomie trudnosci 
 
 Kosci udowe nadal maja swoja wartosc jako przedmioty do zadan na wyzszych poziomach trudnosci misji dziennych 
