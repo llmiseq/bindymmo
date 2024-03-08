@@ -58,7 +58,7 @@ w sprawie itemkow st.1 udaj sie do Bena na spawn (uwaga ma on kilka ciekawych op
 
 ===== Nowe bindy =====
 
-UWAGA ==> bardzo wazne jest, aby zapoznac sie z dzisiejszym changelogiem  - rozwiaze to wiele Twoich problemow (link do discorda pod /pomoc)
+UWAGA ==> bardzo wazne jest, aby zapoznac sie z changelogiem z dnia 07.03.br- rozwiaze to wiele Twoich problemow (link do discorda pod /pomoc)
 
 Swoje dzienne/tygodniowe/miesięczne misje mozesz znalezc na tablicy misji na spawnie lub ow1
 
@@ -77,3 +77,5 @@ Kompas GPS pomoze Ci w misjach na spawnie - kliknij na przedmiot PPM
 Grzybowe emblematy mozna otrzymac na misjach dziennych o wyzszym poziomie trudnosci 
 
 Kosci udowe nadal maja swoja wartosc jako przedmioty do zadan na wyzszych poziomach trudnosci misji dziennych 
+
+PAMIETAj, by otrzymac nagrode rzeczowa z misji musisz miec miejsce w ekwipunku
