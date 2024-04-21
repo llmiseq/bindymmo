@@ -28,7 +28,7 @@ polecam uzywac dynmapy na stronie serwera jbwm.pl, znajduja sie na niej lokaliza
 
 drewniane narzedzia mozesz scraftowac w craftingu na swojej wyspie (wyjatek to siekiera - ja robisz u darka na /spawn) natomiast wyzsze poziomy narzedzi u grubiorza/darka/rolnika na spawn
 
-! - przed wiadomoscia, aby pisac na chacie globalnym; $ - przed wiadomoscia, aby pisac na chacie handlowym
+! - przed wiadomoscia, aby pisac na chacie globalnym; $ - przed wiadomoscia, aby pisac na chacie handlowym np !hej, $sprzedam 64 drewna
 
 wegiel i inne surowce mozesz wykopac na Swojej wyspie ulepszajac generator cobblestone pod /is upgrades
 
@@ -56,7 +56,11 @@ zmiana klasy? udaj sie do Diany, nastepnie do nauczycieli; 75 lvl mozesz bez lim
 
 w sprawie itemkow st.1 udaj sie do Bena na spawn (uwaga ma on kilka ciekawych opcji dialogowych, ktore wspomoga Twoja rozgrywke)
 
+Nacisniej E > 3 z kolei slot craftingu > panel teleportacji (perla) > spawn (srodkowa, glowa przypominajaca ziemie) > wybierz miejsce gdzie chcesz sie przeteleportowac
+
 ===== Nowe bindy =====
+
+pamietasz miejsce gdzie mogles zakupic wodoodporne deski? jesli tak to tam - nazwa npc: stary stolarz
 
 UWAGA ==> bardzo wazne jest, aby zapoznac sie z changelogiem z dnia 07.03.br- rozwiaze to wiele Twoich problemow (link do discorda pod /pomoc)
 
