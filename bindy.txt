@@ -58,8 +58,6 @@ w sprawie itemkow st.1 udaj sie do Bena na spawn (uwaga ma on kilka ciekawych op
 
 Nacisniej E > 3 z kolei slot craftingu > panel teleportacji (perla) > spawn (srodkowa, glowa przypominajaca ziemie) > wybierz miejsce gdzie chcesz sie przeteleportowac
 
-===== Nowe bindy =====
-
 pamietasz miejsce gdzie mogles zakupic wodoodporne deski? jesli tak to tam - nazwa npc: stary stolarz
 
 UWAGA ==> bardzo wazne jest, aby zapoznac sie z changelogiem z dnia 07.03.br- rozwiaze to wiele Twoich problemow (link do discorda pod /pomoc)
